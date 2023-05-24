@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "fideos",
+		"description": "moño",
+		"price": "100",
+		"thumbnail": "img",
+		"code": "522872",
+		"stock": "1"
+	},
+	{
+		"id": 2,
+		"title": "atun",
+		"description": "lomito de atun",
+		"price": "799",
+		"thumbnail": "img",
+		"code": "956327",
+		"stock": "10"
+	},
+	{
+		"id": 3,
+		"title": "jabon",
+		"description": "jabon liquido",
+		"price": "1700",
+		"thumbnail": "img",
+		"code": "087143",
+		"stock": "5"
+	},
+	{
+		"id": 4,
+		"title": "harina",
+		"description": "000",
+		"price": "200",
+		"thumbnail": "img",
+		"code": "647182",
+		"stock": "3"
+	}
+]
